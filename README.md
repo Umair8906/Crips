@@ -14,6 +14,11 @@ crips is a website 🕸️ penetration tool
 
 
 
+
+bash or ./install.sh
+
+
+
   apt install python3
 
 
